@@ -1,0 +1,9 @@
+D:\Users\zayed\source\repos\DVLD-Project\Business Layer\bin\Debug\Business Layer.dll
+D:\Users\zayed\source\repos\DVLD-Project\Business Layer\bin\Debug\Business Layer.pdb
+D:\Users\zayed\source\repos\DVLD-Project\Business Layer\bin\Debug\DataAccessLayer.dll
+D:\Users\zayed\source\repos\DVLD-Project\Business Layer\bin\Debug\DataAccessLayer.pdb
+D:\Users\zayed\source\repos\DVLD-Project\Business Layer\obj\Debug\Business Layer.csproj.AssemblyReference.cache
+D:\Users\zayed\source\repos\DVLD-Project\Business Layer\obj\Debug\Business Layer.csproj.CoreCompileInputs.cache
+D:\Users\zayed\source\repos\DVLD-Project\Business Layer\obj\Debug\Business.38778CEF.Up2Date
+D:\Users\zayed\source\repos\DVLD-Project\Business Layer\obj\Debug\Business Layer.dll
+D:\Users\zayed\source\repos\DVLD-Project\Business Layer\obj\Debug\Business Layer.pdb

@@ -1,0 +1,1264 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Users\\zayed\\source\\repos\\DVLD-Project\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{056DB827-C05D-4385-B9D8-94570190B7F0}|DataAccessLayer\\DataAccessLayer.csproj|D:\\Users\\zayed\\source\\repos\\DVLD-Project\\dataaccesslayer\\maindata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{056DB827-C05D-4385-B9D8-94570190B7F0}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\maindata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{056DB827-C05D-4385-B9D8-94570190B7F0}|DataAccessLayer\\DataAccessLayer.csproj|D:\\Users\\zayed\\source\\repos\\DVLD-Project\\dataaccesslayer\\detainedlicensedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{056DB827-C05D-4385-B9D8-94570190B7F0}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\detainedlicensedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16B11F7F-3A24-4D38-9856-C17AF70F27D4}|Presentaion Layer\\Presentaion Layer.csproj|d:\\users\\zayed\\source\\repos\\dvld-project\\presentaion layer\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{16B11F7F-3A24-4D38-9856-C17AF70F27D4}|Presentaion Layer\\Presentaion Layer.csproj|solutionrelative:presentaion layer\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16B11F7F-3A24-4D38-9856-C17AF70F27D4}|Presentaion Layer\\Presentaion Layer.csproj|D:\\Users\\zayed\\source\\repos\\DVLD-Project\\presentaion layer\\addform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16B11F7F-3A24-4D38-9856-C17AF70F27D4}|Presentaion Layer\\Presentaion Layer.csproj|solutionrelative:presentaion layer\\addform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16B11F7F-3A24-4D38-9856-C17AF70F27D4}|Presentaion Layer\\Presentaion Layer.csproj|D:\\Users\\zayed\\source\\repos\\DVLD-Project\\presentaion layer\\addform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16B11F7F-3A24-4D38-9856-C17AF70F27D4}|Presentaion Layer\\Presentaion Layer.csproj|solutionrelative:presentaion layer\\addform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16B11F7F-3A24-4D38-9856-C17AF70F27D4}|Presentaion Layer\\Presentaion Layer.csproj|D:\\Users\\zayed\\source\\repos\\DVLD-Project\\presentaion layer\\addform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{16B11F7F-3A24-4D38-9856-C17AF70F27D4}|Presentaion Layer\\Presentaion Layer.csproj|solutionrelative:presentaion layer\\addform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16B11F7F-3A24-4D38-9856-C17AF70F27D4}|Presentaion Layer\\Presentaion Layer.csproj|D:\\Users\\zayed\\source\\repos\\DVLD-Project\\presentaion layer\\peopleform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16B11F7F-3A24-4D38-9856-C17AF70F27D4}|Presentaion Layer\\Presentaion Layer.csproj|solutionrelative:presentaion layer\\peopleform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16B11F7F-3A24-4D38-9856-C17AF70F27D4}|Presentaion Layer\\Presentaion Layer.csproj|D:\\Users\\zayed\\source\\repos\\DVLD-Project\\presentaion layer\\peopleform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{16B11F7F-3A24-4D38-9856-C17AF70F27D4}|Presentaion Layer\\Presentaion Layer.csproj|solutionrelative:presentaion layer\\peopleform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16B11F7F-3A24-4D38-9856-C17AF70F27D4}|Presentaion Layer\\Presentaion Layer.csproj|D:\\Users\\zayed\\source\\repos\\DVLD-Project\\presentaion layer\\findperson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{16B11F7F-3A24-4D38-9856-C17AF70F27D4}|Presentaion Layer\\Presentaion Layer.csproj|solutionrelative:presentaion layer\\findperson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16B11F7F-3A24-4D38-9856-C17AF70F27D4}|Presentaion Layer\\Presentaion Layer.csproj|D:\\Users\\zayed\\source\\repos\\DVLD-Project\\presentaion layer\\users\\controls\\addusercontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16B11F7F-3A24-4D38-9856-C17AF70F27D4}|Presentaion Layer\\Presentaion Layer.csproj|solutionrelative:presentaion layer\\users\\controls\\addusercontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16B11F7F-3A24-4D38-9856-C17AF70F27D4}|Presentaion Layer\\Presentaion Layer.csproj|D:\\Users\\zayed\\source\\repos\\DVLD-Project\\presentaion layer\\users\\controls\\addusercontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{16B11F7F-3A24-4D38-9856-C17AF70F27D4}|Presentaion Layer\\Presentaion Layer.csproj|solutionrelative:presentaion layer\\users\\controls\\addusercontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3584101F-C0A2-4094-8E06-A22C8F5F541C}|Business Layer\\Business Layer.csproj|D:\\Users\\zayed\\source\\repos\\DVLD-Project\\business layer\\clsperson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3584101F-C0A2-4094-8E06-A22C8F5F541C}|Business Layer\\Business Layer.csproj|solutionrelative:business layer\\clsperson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{056DB827-C05D-4385-B9D8-94570190B7F0}|DataAccessLayer\\DataAccessLayer.csproj|D:\\Users\\zayed\\source\\repos\\DVLD-Project\\dataaccesslayer\\persondata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{056DB827-C05D-4385-B9D8-94570190B7F0}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\persondata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16B11F7F-3A24-4D38-9856-C17AF70F27D4}|Presentaion Layer\\Presentaion Layer.csproj|D:\\Users\\zayed\\source\\repos\\DVLD-Project\\presentaion layer\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16B11F7F-3A24-4D38-9856-C17AF70F27D4}|Presentaion Layer\\Presentaion Layer.csproj|solutionrelative:presentaion layer\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16B11F7F-3A24-4D38-9856-C17AF70F27D4}|Presentaion Layer\\Presentaion Layer.csproj|D:\\Users\\zayed\\source\\repos\\DVLD-Project\\presentaion layer\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{16B11F7F-3A24-4D38-9856-C17AF70F27D4}|Presentaion Layer\\Presentaion Layer.csproj|solutionrelative:presentaion layer\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16B11F7F-3A24-4D38-9856-C17AF70F27D4}|Presentaion Layer\\Presentaion Layer.csproj|D:\\Users\\zayed\\source\\repos\\DVLD-Project\\presentaion layer\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{16B11F7F-3A24-4D38-9856-C17AF70F27D4}|Presentaion Layer\\Presentaion Layer.csproj|solutionrelative:presentaion layer\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16B11F7F-3A24-4D38-9856-C17AF70F27D4}|Presentaion Layer\\Presentaion Layer.csproj|D:\\Users\\zayed\\source\\repos\\DVLD-Project\\presentaion layer\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16B11F7F-3A24-4D38-9856-C17AF70F27D4}|Presentaion Layer\\Presentaion Layer.csproj|solutionrelative:presentaion layer\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16B11F7F-3A24-4D38-9856-C17AF70F27D4}|Presentaion Layer\\Presentaion Layer.csproj|D:\\Users\\zayed\\source\\repos\\DVLD-Project\\presentaion layer\\manageapplications\\licenses\\local licenses\\addlocallicensesform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16B11F7F-3A24-4D38-9856-C17AF70F27D4}|Presentaion Layer\\Presentaion Layer.csproj|solutionrelative:presentaion layer\\manageapplications\\licenses\\local licenses\\addlocallicensesform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16B11F7F-3A24-4D38-9856-C17AF70F27D4}|Presentaion Layer\\Presentaion Layer.csproj|D:\\Users\\zayed\\source\\repos\\DVLD-Project\\presentaion layer\\manageapplications\\manageapplicationslicense\\manageapplicationform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16B11F7F-3A24-4D38-9856-C17AF70F27D4}|Presentaion Layer\\Presentaion Layer.csproj|solutionrelative:presentaion layer\\manageapplications\\manageapplicationslicense\\manageapplicationform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{056DB827-C05D-4385-B9D8-94570190B7F0}|DataAccessLayer\\DataAccessLayer.csproj|D:\\Users\\zayed\\source\\repos\\DVLD-Project\\dataaccesslayer\\licensedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{056DB827-C05D-4385-B9D8-94570190B7F0}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\licensedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3584101F-C0A2-4094-8E06-A22C8F5F541C}|Business Layer\\Business Layer.csproj|D:\\Users\\zayed\\source\\repos\\DVLD-Project\\business layer\\clstest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3584101F-C0A2-4094-8E06-A22C8F5F541C}|Business Layer\\Business Layer.csproj|solutionrelative:business layer\\clstest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{056DB827-C05D-4385-B9D8-94570190B7F0}|DataAccessLayer\\DataAccessLayer.csproj|D:\\Users\\zayed\\source\\repos\\DVLD-Project\\dataaccesslayer\\testdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{056DB827-C05D-4385-B9D8-94570190B7F0}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\testdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3584101F-C0A2-4094-8E06-A22C8F5F541C}|Business Layer\\Business Layer.csproj|D:\\Users\\zayed\\source\\repos\\DVLD-Project\\business layer\\clslicense.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3584101F-C0A2-4094-8E06-A22C8F5F541C}|Business Layer\\Business Layer.csproj|solutionrelative:business layer\\clslicense.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3584101F-C0A2-4094-8E06-A22C8F5F541C}|Business Layer\\Business Layer.csproj|D:\\Users\\zayed\\source\\repos\\DVLD-Project\\business layer\\clsdrivinglicensesapplicatoin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3584101F-C0A2-4094-8E06-A22C8F5F541C}|Business Layer\\Business Layer.csproj|solutionrelative:business layer\\clsdrivinglicensesapplicatoin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{056DB827-C05D-4385-B9D8-94570190B7F0}|DataAccessLayer\\DataAccessLayer.csproj|D:\\Users\\zayed\\source\\repos\\DVLD-Project\\dataaccesslayer\\drivinglicensesapplicatoindata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{056DB827-C05D-4385-B9D8-94570190B7F0}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\drivinglicensesapplicatoindata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16B11F7F-3A24-4D38-9856-C17AF70F27D4}|Presentaion Layer\\Presentaion Layer.csproj|D:\\Users\\zayed\\source\\repos\\DVLD-Project\\presentaion layer\\manageapplications\\manageapplicationslicense\\manageapplicationform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{16B11F7F-3A24-4D38-9856-C17AF70F27D4}|Presentaion Layer\\Presentaion Layer.csproj|solutionrelative:presentaion layer\\manageapplications\\manageapplicationslicense\\manageapplicationform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3584101F-C0A2-4094-8E06-A22C8F5F541C}|Business Layer\\Business Layer.csproj|D:\\Users\\zayed\\source\\repos\\DVLD-Project\\business layer\\clsapplicationtypes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3584101F-C0A2-4094-8E06-A22C8F5F541C}|Business Layer\\Business Layer.csproj|solutionrelative:business layer\\clsapplicationtypes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16B11F7F-3A24-4D38-9856-C17AF70F27D4}|Presentaion Layer\\Presentaion Layer.csproj|D:\\Users\\zayed\\source\\repos\\DVLD-Project\\presentaion layer\\manageapplications\\apptypesform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16B11F7F-3A24-4D38-9856-C17AF70F27D4}|Presentaion Layer\\Presentaion Layer.csproj|solutionrelative:presentaion layer\\manageapplications\\apptypesform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{056DB827-C05D-4385-B9D8-94570190B7F0}|DataAccessLayer\\DataAccessLayer.csproj|D:\\Users\\zayed\\source\\repos\\DVLD-Project\\dataaccesslayer\\applicationdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{056DB827-C05D-4385-B9D8-94570190B7F0}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\applicationdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3584101F-C0A2-4094-8E06-A22C8F5F541C}|Business Layer\\Business Layer.csproj|D:\\Users\\zayed\\source\\repos\\DVLD-Project\\business layer\\clsapplications.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3584101F-C0A2-4094-8E06-A22C8F5F541C}|Business Layer\\Business Layer.csproj|solutionrelative:business layer\\clsapplications.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|Presentaion Layer||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16B11F7F-3A24-4D38-9856-C17AF70F27D4}|Presentaion Layer\\Presentaion Layer.csproj|D:\\Users\\zayed\\source\\repos\\DVLD-Project\\presentaion layer\\manageapplications\\detain license\\controls\\detainedcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16B11F7F-3A24-4D38-9856-C17AF70F27D4}|Presentaion Layer\\Presentaion Layer.csproj|solutionrelative:presentaion layer\\manageapplications\\detain license\\controls\\detainedcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3584101F-C0A2-4094-8E06-A22C8F5F541C}|Business Layer\\Business Layer.csproj|D:\\Users\\zayed\\source\\repos\\DVLD-Project\\business layer\\clsdetainedlicense.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3584101F-C0A2-4094-8E06-A22C8F5F541C}|Business Layer\\Business Layer.csproj|solutionrelative:business layer\\clsdetainedlicense.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16B11F7F-3A24-4D38-9856-C17AF70F27D4}|Presentaion Layer\\Presentaion Layer.csproj|D:\\Users\\zayed\\source\\repos\\DVLD-Project\\presentaion layer\\manageapplications\\detain license\\controls\\detainedcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{16B11F7F-3A24-4D38-9856-C17AF70F27D4}|Presentaion Layer\\Presentaion Layer.csproj|solutionrelative:presentaion layer\\manageapplications\\detain license\\controls\\detainedcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16B11F7F-3A24-4D38-9856-C17AF70F27D4}|Presentaion Layer\\Presentaion Layer.csproj|D:\\Users\\zayed\\source\\repos\\DVLD-Project\\presentaion layer\\manageapplications\\detain license\\detainlicenseform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{16B11F7F-3A24-4D38-9856-C17AF70F27D4}|Presentaion Layer\\Presentaion Layer.csproj|solutionrelative:presentaion layer\\manageapplications\\detain license\\detainlicenseform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16B11F7F-3A24-4D38-9856-C17AF70F27D4}|Presentaion Layer\\Presentaion Layer.csproj|D:\\Users\\zayed\\source\\repos\\DVLD-Project\\presentaion layer\\manageapplications\\detain license\\relaselicenseform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{16B11F7F-3A24-4D38-9856-C17AF70F27D4}|Presentaion Layer\\Presentaion Layer.csproj|solutionrelative:presentaion layer\\manageapplications\\detain license\\relaselicenseform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16B11F7F-3A24-4D38-9856-C17AF70F27D4}|Presentaion Layer\\Presentaion Layer.csproj|D:\\Users\\zayed\\source\\repos\\DVLD-Project\\presentaion layer\\manageapplications\\detain license\\managedetainedapplicationform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{16B11F7F-3A24-4D38-9856-C17AF70F27D4}|Presentaion Layer\\Presentaion Layer.csproj|solutionrelative:presentaion layer\\manageapplications\\detain license\\managedetainedapplicationform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16B11F7F-3A24-4D38-9856-C17AF70F27D4}|Presentaion Layer\\Presentaion Layer.csproj|D:\\Users\\zayed\\source\\repos\\DVLD-Project\\presentaion layer\\manageapplications\\detain license\\detainlicenseform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16B11F7F-3A24-4D38-9856-C17AF70F27D4}|Presentaion Layer\\Presentaion Layer.csproj|solutionrelative:presentaion layer\\manageapplications\\detain license\\detainlicenseform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16B11F7F-3A24-4D38-9856-C17AF70F27D4}|Presentaion Layer\\Presentaion Layer.csproj|D:\\Users\\zayed\\source\\repos\\DVLD-Project\\presentaion layer\\manageapplications\\licenses\\local licenses\\control\\driverlicensecontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16B11F7F-3A24-4D38-9856-C17AF70F27D4}|Presentaion Layer\\Presentaion Layer.csproj|solutionrelative:presentaion layer\\manageapplications\\licenses\\local licenses\\control\\driverlicensecontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16B11F7F-3A24-4D38-9856-C17AF70F27D4}|Presentaion Layer\\Presentaion Layer.csproj|D:\\Users\\zayed\\source\\repos\\DVLD-Project\\presentaion layer\\manageapplications\\licenses\\local licenses\\control\\driverlicensecontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{16B11F7F-3A24-4D38-9856-C17AF70F27D4}|Presentaion Layer\\Presentaion Layer.csproj|solutionrelative:presentaion layer\\manageapplications\\licenses\\local licenses\\control\\driverlicensecontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16B11F7F-3A24-4D38-9856-C17AF70F27D4}|Presentaion Layer\\Presentaion Layer.csproj|D:\\Users\\zayed\\source\\repos\\DVLD-Project\\presentaion layer\\manageapplications\\detain license\\relaselicenseform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16B11F7F-3A24-4D38-9856-C17AF70F27D4}|Presentaion Layer\\Presentaion Layer.csproj|solutionrelative:presentaion layer\\manageapplications\\detain license\\relaselicenseform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16B11F7F-3A24-4D38-9856-C17AF70F27D4}|Presentaion Layer\\Presentaion Layer.csproj|D:\\Users\\zayed\\source\\repos\\DVLD-Project\\presentaion layer\\manageapplications\\detain license\\managedetainedapplicationform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16B11F7F-3A24-4D38-9856-C17AF70F27D4}|Presentaion Layer\\Presentaion Layer.csproj|solutionrelative:presentaion layer\\manageapplications\\detain license\\managedetainedapplicationform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16B11F7F-3A24-4D38-9856-C17AF70F27D4}|Presentaion Layer\\Presentaion Layer.csproj|D:\\Users\\zayed\\source\\repos\\DVLD-Project\\presentaion layer\\manageapplications\\controls\\applicationinfocontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{16B11F7F-3A24-4D38-9856-C17AF70F27D4}|Presentaion Layer\\Presentaion Layer.csproj|solutionrelative:presentaion layer\\manageapplications\\controls\\applicationinfocontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16B11F7F-3A24-4D38-9856-C17AF70F27D4}|Presentaion Layer\\Presentaion Layer.csproj|D:\\Users\\zayed\\source\\repos\\DVLD-Project\\presentaion layer\\tests\\scheduletestform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{16B11F7F-3A24-4D38-9856-C17AF70F27D4}|Presentaion Layer\\Presentaion Layer.csproj|solutionrelative:presentaion layer\\tests\\scheduletestform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16B11F7F-3A24-4D38-9856-C17AF70F27D4}|Presentaion Layer\\Presentaion Layer.csproj|D:\\Users\\zayed\\source\\repos\\DVLD-Project\\presentaion layer\\manageapplications\\form1wwwwwww.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{16B11F7F-3A24-4D38-9856-C17AF70F27D4}|Presentaion Layer\\Presentaion Layer.csproj|solutionrelative:presentaion layer\\manageapplications\\form1wwwwwww.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16B11F7F-3A24-4D38-9856-C17AF70F27D4}|Presentaion Layer\\Presentaion Layer.csproj|D:\\Users\\zayed\\source\\repos\\DVLD-Project\\presentaion layer\\manageapplications\\apptypesform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{16B11F7F-3A24-4D38-9856-C17AF70F27D4}|Presentaion Layer\\Presentaion Layer.csproj|solutionrelative:presentaion layer\\manageapplications\\apptypesform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16B11F7F-3A24-4D38-9856-C17AF70F27D4}|Presentaion Layer\\Presentaion Layer.csproj|D:\\Users\\zayed\\source\\repos\\DVLD-Project\\presentaion layer\\users\\adduersform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{16B11F7F-3A24-4D38-9856-C17AF70F27D4}|Presentaion Layer\\Presentaion Layer.csproj|solutionrelative:presentaion layer\\users\\adduersform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16B11F7F-3A24-4D38-9856-C17AF70F27D4}|Presentaion Layer\\Presentaion Layer.csproj|D:\\Users\\zayed\\source\\repos\\DVLD-Project\\presentaion layer\\users\\adduersform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16B11F7F-3A24-4D38-9856-C17AF70F27D4}|Presentaion Layer\\Presentaion Layer.csproj|solutionrelative:presentaion layer\\users\\adduersform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16B11F7F-3A24-4D38-9856-C17AF70F27D4}|Presentaion Layer\\Presentaion Layer.csproj|D:\\Users\\zayed\\source\\repos\\DVLD-Project\\presentaion layer\\tests\\testtypesform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{16B11F7F-3A24-4D38-9856-C17AF70F27D4}|Presentaion Layer\\Presentaion Layer.csproj|solutionrelative:presentaion layer\\tests\\testtypesform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16B11F7F-3A24-4D38-9856-C17AF70F27D4}|Presentaion Layer\\Presentaion Layer.csproj|D:\\Users\\zayed\\source\\repos\\DVLD-Project\\presentaion layer\\manageapplications\\controls\\applicationinfocontrol.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16B11F7F-3A24-4D38-9856-C17AF70F27D4}|Presentaion Layer\\Presentaion Layer.csproj|solutionrelative:presentaion layer\\manageapplications\\controls\\applicationinfocontrol.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16B11F7F-3A24-4D38-9856-C17AF70F27D4}|Presentaion Layer\\Presentaion Layer.csproj|D:\\Users\\zayed\\source\\repos\\DVLD-Project\\presentaion layer\\manageapplications\\controls\\applicationinfocontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16B11F7F-3A24-4D38-9856-C17AF70F27D4}|Presentaion Layer\\Presentaion Layer.csproj|solutionrelative:presentaion layer\\manageapplications\\controls\\applicationinfocontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16B11F7F-3A24-4D38-9856-C17AF70F27D4}|Presentaion Layer\\Presentaion Layer.csproj|D:\\Users\\zayed\\source\\repos\\DVLD-Project\\presentaion layer\\tests\\testappoinmentform1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16B11F7F-3A24-4D38-9856-C17AF70F27D4}|Presentaion Layer\\Presentaion Layer.csproj|solutionrelative:presentaion layer\\tests\\testappoinmentform1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16B11F7F-3A24-4D38-9856-C17AF70F27D4}|Presentaion Layer\\Presentaion Layer.csproj|D:\\Users\\zayed\\source\\repos\\DVLD-Project\\presentaion layer\\tests\\scheduletestform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16B11F7F-3A24-4D38-9856-C17AF70F27D4}|Presentaion Layer\\Presentaion Layer.csproj|solutionrelative:presentaion layer\\tests\\scheduletestform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16B11F7F-3A24-4D38-9856-C17AF70F27D4}|Presentaion Layer\\Presentaion Layer.csproj|D:\\Users\\zayed\\source\\repos\\DVLD-Project\\presentaion layer\\manageapplications\\licenses\\controls\\licenseinfocontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16B11F7F-3A24-4D38-9856-C17AF70F27D4}|Presentaion Layer\\Presentaion Layer.csproj|solutionrelative:presentaion layer\\manageapplications\\licenses\\controls\\licenseinfocontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16B11F7F-3A24-4D38-9856-C17AF70F27D4}|Presentaion Layer\\Presentaion Layer.csproj|D:\\Users\\zayed\\source\\repos\\DVLD-Project\\presentaion layer\\manageapplications\\licenses\\controls\\licenseinfocontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{16B11F7F-3A24-4D38-9856-C17AF70F27D4}|Presentaion Layer\\Presentaion Layer.csproj|solutionrelative:presentaion layer\\manageapplications\\licenses\\controls\\licenseinfocontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16B11F7F-3A24-4D38-9856-C17AF70F27D4}|Presentaion Layer\\Presentaion Layer.csproj|D:\\Users\\zayed\\source\\repos\\DVLD-Project\\presentaion layer\\tests\\controls\\scheduletestcontrol1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16B11F7F-3A24-4D38-9856-C17AF70F27D4}|Presentaion Layer\\Presentaion Layer.csproj|solutionrelative:presentaion layer\\tests\\controls\\scheduletestcontrol1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16B11F7F-3A24-4D38-9856-C17AF70F27D4}|Presentaion Layer\\Presentaion Layer.csproj|D:\\Users\\zayed\\source\\repos\\DVLD-Project\\presentaion layer\\tests\\controls\\scheduletestcontrol1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{16B11F7F-3A24-4D38-9856-C17AF70F27D4}|Presentaion Layer\\Presentaion Layer.csproj|solutionrelative:presentaion layer\\tests\\controls\\scheduletestcontrol1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16B11F7F-3A24-4D38-9856-C17AF70F27D4}|Presentaion Layer\\Presentaion Layer.csproj|D:\\Users\\zayed\\source\\repos\\DVLD-Project\\presentaion layer\\tests\\testappointmentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{16B11F7F-3A24-4D38-9856-C17AF70F27D4}|Presentaion Layer\\Presentaion Layer.csproj|solutionrelative:presentaion layer\\tests\\testappointmentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16B11F7F-3A24-4D38-9856-C17AF70F27D4}|Presentaion Layer\\Presentaion Layer.csproj|D:\\Users\\zayed\\source\\repos\\DVLD-Project\\presentaion layer\\manageapplications\\licenses\\local licenses\\control\\driverlicensecontrol.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16B11F7F-3A24-4D38-9856-C17AF70F27D4}|Presentaion Layer\\Presentaion Layer.csproj|solutionrelative:presentaion layer\\manageapplications\\licenses\\local licenses\\control\\driverlicensecontrol.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16B11F7F-3A24-4D38-9856-C17AF70F27D4}|Presentaion Layer\\Presentaion Layer.csproj|D:\\Users\\zayed\\source\\repos\\DVLD-Project\\presentaion layer\\manageapplications\\detain license\\detainlicenseform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16B11F7F-3A24-4D38-9856-C17AF70F27D4}|Presentaion Layer\\Presentaion Layer.csproj|solutionrelative:presentaion layer\\manageapplications\\detain license\\detainlicenseform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16B11F7F-3A24-4D38-9856-C17AF70F27D4}|Presentaion Layer\\Presentaion Layer.csproj|D:\\Users\\zayed\\source\\repos\\DVLD-Project\\presentaion layer\\manageapplications\\renewlicense\\renewlocallicenseform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16B11F7F-3A24-4D38-9856-C17AF70F27D4}|Presentaion Layer\\Presentaion Layer.csproj|solutionrelative:presentaion layer\\manageapplications\\renewlicense\\renewlocallicenseform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16B11F7F-3A24-4D38-9856-C17AF70F27D4}|Presentaion Layer\\Presentaion Layer.csproj|D:\\Users\\zayed\\source\\repos\\DVLD-Project\\presentaion layer\\manageapplications\\licenses\\controls\\licenseinfocontrol.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16B11F7F-3A24-4D38-9856-C17AF70F27D4}|Presentaion Layer\\Presentaion Layer.csproj|solutionrelative:presentaion layer\\manageapplications\\licenses\\controls\\licenseinfocontrol.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16B11F7F-3A24-4D38-9856-C17AF70F27D4}|Presentaion Layer\\Presentaion Layer.csproj|D:\\Users\\zayed\\source\\repos\\DVLD-Project\\presentaion layer\\resources\\address 32.png||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{16B11F7F-3A24-4D38-9856-C17AF70F27D4}|Presentaion Layer\\Presentaion Layer.csproj|solutionrelative:presentaion layer\\resources\\address 32.png||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3584101F-C0A2-4094-8E06-A22C8F5F541C}|Business Layer\\Business Layer.csproj|D:\\Users\\zayed\\source\\repos\\DVLD-Project\\business layer\\clsdriver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3584101F-C0A2-4094-8E06-A22C8F5F541C}|Business Layer\\Business Layer.csproj|solutionrelative:business layer\\clsdriver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{056DB827-C05D-4385-B9D8-94570190B7F0}|DataAccessLayer\\DataAccessLayer.csproj|D:\\Users\\zayed\\source\\repos\\DVLD-Project\\dataaccesslayer\\driverdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{056DB827-C05D-4385-B9D8-94570190B7F0}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\driverdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3584101F-C0A2-4094-8E06-A22C8F5F541C}|Business Layer\\Business Layer.csproj|D:\\Users\\zayed\\source\\repos\\DVLD-Project\\business layer\\licensesclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3584101F-C0A2-4094-8E06-A22C8F5F541C}|Business Layer\\Business Layer.csproj|solutionrelative:business layer\\licensesclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{056DB827-C05D-4385-B9D8-94570190B7F0}|DataAccessLayer\\DataAccessLayer.csproj|D:\\Users\\zayed\\source\\repos\\DVLD-Project\\dataaccesslayer\\licensesclassdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{056DB827-C05D-4385-B9D8-94570190B7F0}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\licensesclassdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{056DB827-C05D-4385-B9D8-94570190B7F0}|DataAccessLayer\\DataAccessLayer.csproj|D:\\Users\\zayed\\source\\repos\\DVLD-Project\\dataaccesslayer\\internationallicensedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{056DB827-C05D-4385-B9D8-94570190B7F0}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\internationallicensedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16B11F7F-3A24-4D38-9856-C17AF70F27D4}|Presentaion Layer\\Presentaion Layer.csproj|D:\\Users\\zayed\\source\\repos\\DVLD-Project\\presentaion layer\\manageapplications\\editform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{16B11F7F-3A24-4D38-9856-C17AF70F27D4}|Presentaion Layer\\Presentaion Layer.csproj|solutionrelative:presentaion layer\\manageapplications\\editform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16B11F7F-3A24-4D38-9856-C17AF70F27D4}|Presentaion Layer\\Presentaion Layer.csproj|D:\\Users\\zayed\\source\\repos\\DVLD-Project\\presentaion layer\\manageapplications\\licenses\\local licenses\\control\\driverlicensecontrol.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{16B11F7F-3A24-4D38-9856-C17AF70F27D4}|Presentaion Layer\\Presentaion Layer.csproj|solutionrelative:presentaion layer\\manageapplications\\licenses\\local licenses\\control\\driverlicensecontrol.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16B11F7F-3A24-4D38-9856-C17AF70F27D4}|Presentaion Layer\\Presentaion Layer.csproj|D:\\Users\\zayed\\source\\repos\\DVLD-Project\\presentaion layer\\users\\usersform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{16B11F7F-3A24-4D38-9856-C17AF70F27D4}|Presentaion Layer\\Presentaion Layer.csproj|solutionrelative:presentaion layer\\users\\usersform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16B11F7F-3A24-4D38-9856-C17AF70F27D4}|Presentaion Layer\\Presentaion Layer.csproj|D:\\Users\\zayed\\source\\repos\\DVLD-Project\\presentaion layer\\tests\\edit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{16B11F7F-3A24-4D38-9856-C17AF70F27D4}|Presentaion Layer\\Presentaion Layer.csproj|solutionrelative:presentaion layer\\tests\\edit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16B11F7F-3A24-4D38-9856-C17AF70F27D4}|Presentaion Layer\\Presentaion Layer.csproj|D:\\Users\\zayed\\source\\repos\\DVLD-Project\\presentaion layer\\manageapplications\\licenses\\local licenses\\addlocallicensesform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{16B11F7F-3A24-4D38-9856-C17AF70F27D4}|Presentaion Layer\\Presentaion Layer.csproj|solutionrelative:presentaion layer\\manageapplications\\licenses\\local licenses\\addlocallicensesform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16B11F7F-3A24-4D38-9856-C17AF70F27D4}|Presentaion Layer\\Presentaion Layer.csproj|D:\\Users\\zayed\\source\\repos\\DVLD-Project\\presentaion layer\\manageapplications\\licenses\\internationallicense\\internatiionallicese form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{16B11F7F-3A24-4D38-9856-C17AF70F27D4}|Presentaion Layer\\Presentaion Layer.csproj|solutionrelative:presentaion layer\\manageapplications\\licenses\\internationallicense\\internatiionallicese form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3584101F-C0A2-4094-8E06-A22C8F5F541C}|Business Layer\\Business Layer.csproj|D:\\Users\\zayed\\source\\repos\\DVLD-Project\\business layer\\clsinternationallicense.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3584101F-C0A2-4094-8E06-A22C8F5F541C}|Business Layer\\Business Layer.csproj|solutionrelative:business layer\\clsinternationallicense.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{056DB827-C05D-4385-B9D8-94570190B7F0}|DataAccessLayer\\DataAccessLayer.csproj|D:\\Users\\zayed\\source\\repos\\DVLD-Project\\dataaccesslayer\\managetestsdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{056DB827-C05D-4385-B9D8-94570190B7F0}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\managetestsdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{056DB827-C05D-4385-B9D8-94570190B7F0}|DataAccessLayer\\DataAccessLayer.csproj|D:\\Users\\zayed\\source\\repos\\DVLD-Project\\dataaccesslayer\\testappoinmentdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{056DB827-C05D-4385-B9D8-94570190B7F0}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\testappoinmentdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|DataAccessLayer||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|Business Layer||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Person.cs [Design]",
+              "DocumentMoniker": "D:\\Users\\zayed\\source\\repos\\DVLD-Project\\Presentaion Layer\\Person.cs",
+              "RelativeDocumentMoniker": "Presentaion Layer\\Person.cs",
+              "ToolTip": "D:\\Users\\zayed\\source\\repos\\DVLD-Project\\Presentaion Layer\\Person.cs [Design]",
+              "RelativeToolTip": "Presentaion Layer\\Person.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T18:14:11.319Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PeopleForm.cs",
+              "DocumentMoniker": "D:\\Users\\zayed\\source\\repos\\DVLD-Project\\Presentaion Layer\\PeopleForm.cs",
+              "RelativeDocumentMoniker": "Presentaion Layer\\PeopleForm.cs",
+              "ToolTip": "D:\\Users\\zayed\\source\\repos\\DVLD-Project\\Presentaion Layer\\PeopleForm.cs",
+              "RelativeToolTip": "Presentaion Layer\\PeopleForm.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAAEwEYAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T18:12:50.219Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AddUserControl.cs [Design]",
+              "DocumentMoniker": "D:\\Users\\zayed\\source\\repos\\DVLD-Project\\Presentaion Layer\\Users\\Controls\\AddUserControl.cs",
+              "RelativeDocumentMoniker": "Presentaion Layer\\Users\\Controls\\AddUserControl.cs",
+              "ToolTip": "D:\\Users\\zayed\\source\\repos\\DVLD-Project\\Presentaion Layer\\Users\\Controls\\AddUserControl.cs [Design]",
+              "RelativeToolTip": "Presentaion Layer\\Users\\Controls\\AddUserControl.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T18:11:45.938Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AddUserControl.cs",
+              "DocumentMoniker": "D:\\Users\\zayed\\source\\repos\\DVLD-Project\\Presentaion Layer\\Users\\Controls\\AddUserControl.cs",
+              "RelativeDocumentMoniker": "Presentaion Layer\\Users\\Controls\\AddUserControl.cs",
+              "ToolTip": "D:\\Users\\zayed\\source\\repos\\DVLD-Project\\Presentaion Layer\\Users\\Controls\\AddUserControl.cs",
+              "RelativeToolTip": "Presentaion Layer\\Users\\Controls\\AddUserControl.cs",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAEwBkAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T18:02:06.798Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FindPerson.cs [Design]",
+              "DocumentMoniker": "D:\\Users\\zayed\\source\\repos\\DVLD-Project\\Presentaion Layer\\FindPerson.cs",
+              "RelativeDocumentMoniker": "Presentaion Layer\\FindPerson.cs",
+              "ToolTip": "D:\\Users\\zayed\\source\\repos\\DVLD-Project\\Presentaion Layer\\FindPerson.cs [Design]",
+              "RelativeToolTip": "Presentaion Layer\\FindPerson.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T14:16:03.773Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DetainedLicenseData.cs",
+              "DocumentMoniker": "D:\\Users\\zayed\\source\\repos\\DVLD-Project\\DataAccessLayer\\DetainedLicenseData.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\DetainedLicenseData.cs",
+              "ToolTip": "D:\\Users\\zayed\\source\\repos\\DVLD-Project\\DataAccessLayer\\DetainedLicenseData.cs",
+              "RelativeToolTip": "DataAccessLayer\\DetainedLicenseData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T22:34:32.212Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainData.cs",
+              "DocumentMoniker": "D:\\Users\\zayed\\source\\repos\\DVLD-Project\\DataAccessLayer\\MainData.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\MainData.cs",
+              "ToolTip": "D:\\Users\\zayed\\source\\repos\\DVLD-Project\\DataAccessLayer\\MainData.cs",
+              "RelativeToolTip": "DataAccessLayer\\MainData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABrAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T23:58:03.405Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AddForm.cs",
+              "DocumentMoniker": "D:\\Users\\zayed\\source\\repos\\DVLD-Project\\Presentaion Layer\\AddForm.cs",
+              "RelativeDocumentMoniker": "Presentaion Layer\\AddForm.cs",
+              "ToolTip": "D:\\Users\\zayed\\source\\repos\\DVLD-Project\\Presentaion Layer\\AddForm.cs",
+              "RelativeToolTip": "Presentaion Layer\\AddForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T18:13:33.91Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AddForm.Designer.cs",
+              "DocumentMoniker": "D:\\Users\\zayed\\source\\repos\\DVLD-Project\\Presentaion Layer\\AddForm.Designer.cs",
+              "RelativeDocumentMoniker": "Presentaion Layer\\AddForm.Designer.cs",
+              "ToolTip": "D:\\Users\\zayed\\source\\repos\\DVLD-Project\\Presentaion Layer\\AddForm.Designer.cs",
+              "RelativeToolTip": "Presentaion Layer\\AddForm.Designer.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAEwDcAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T18:13:43.138Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PeopleForm.cs [Design]",
+              "DocumentMoniker": "D:\\Users\\zayed\\source\\repos\\DVLD-Project\\Presentaion Layer\\PeopleForm.cs",
+              "RelativeDocumentMoniker": "Presentaion Layer\\PeopleForm.cs",
+              "ToolTip": "D:\\Users\\zayed\\source\\repos\\DVLD-Project\\Presentaion Layer\\PeopleForm.cs [Design]",
+              "RelativeToolTip": "Presentaion Layer\\PeopleForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T14:16:07.674Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AddForm.cs [Design]",
+              "DocumentMoniker": "D:\\Users\\zayed\\source\\repos\\DVLD-Project\\Presentaion Layer\\AddForm.cs",
+              "RelativeDocumentMoniker": "Presentaion Layer\\AddForm.cs",
+              "ToolTip": "D:\\Users\\zayed\\source\\repos\\DVLD-Project\\Presentaion Layer\\AddForm.cs [Design]",
+              "RelativeToolTip": "Presentaion Layer\\AddForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T14:16:04.971Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "PersonData.cs",
+              "DocumentMoniker": "D:\\Users\\zayed\\source\\repos\\DVLD-Project\\DataAccessLayer\\PersonData.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\PersonData.cs",
+              "ToolTip": "D:\\Users\\zayed\\source\\repos\\DVLD-Project\\DataAccessLayer\\PersonData.cs",
+              "RelativeToolTip": "DataAccessLayer\\PersonData.cs",
+              "ViewState": "AgIAAM4BAAAAAAAAAAAuwOsBAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T19:49:02.181Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "clsPerson.cs",
+              "DocumentMoniker": "D:\\Users\\zayed\\source\\repos\\DVLD-Project\\Business Layer\\clsPerson.cs",
+              "RelativeDocumentMoniker": "Business Layer\\clsPerson.cs",
+              "ToolTip": "D:\\Users\\zayed\\source\\repos\\DVLD-Project\\Business Layer\\clsPerson.cs",
+              "RelativeToolTip": "Business Layer\\clsPerson.cs",
+              "ViewState": "AgIAAJMAAAAAAAAAAAAewKUAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T22:20:00.459Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "AddLocallicensesForm.cs",
+              "DocumentMoniker": "D:\\Users\\zayed\\source\\repos\\DVLD-Project\\Presentaion Layer\\ManageApplications\\Licenses\\Local Licenses\\AddLocallicensesForm.cs",
+              "RelativeDocumentMoniker": "Presentaion Layer\\ManageApplications\\Licenses\\Local Licenses\\AddLocallicensesForm.cs",
+              "ToolTip": "D:\\Users\\zayed\\source\\repos\\DVLD-Project\\Presentaion Layer\\ManageApplications\\Licenses\\Local Licenses\\AddLocallicensesForm.cs",
+              "RelativeToolTip": "Presentaion Layer\\ManageApplications\\Licenses\\Local Licenses\\AddLocallicensesForm.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAawBwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T01:55:24.264Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "MainForm.cs",
+              "DocumentMoniker": "D:\\Users\\zayed\\source\\repos\\DVLD-Project\\Presentaion Layer\\MainForm.cs",
+              "RelativeDocumentMoniker": "Presentaion Layer\\MainForm.cs",
+              "ToolTip": "D:\\Users\\zayed\\source\\repos\\DVLD-Project\\Presentaion Layer\\MainForm.cs",
+              "RelativeToolTip": "Presentaion Layer\\MainForm.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAawCAAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T02:03:38.212Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ManageApplicationForm.cs",
+              "DocumentMoniker": "D:\\Users\\zayed\\source\\repos\\DVLD-Project\\Presentaion Layer\\ManageApplications\\ManageApplicationsLicense\\ManageApplicationForm.cs",
+              "RelativeDocumentMoniker": "Presentaion Layer\\ManageApplications\\ManageApplicationsLicense\\ManageApplicationForm.cs",
+              "ToolTip": "D:\\Users\\zayed\\source\\repos\\DVLD-Project\\Presentaion Layer\\ManageApplications\\ManageApplicationsLicense\\ManageApplicationForm.cs",
+              "RelativeToolTip": "Presentaion Layer\\ManageApplications\\ManageApplicationsLicense\\ManageApplicationForm.cs",
+              "ViewState": "AgIAALkAAAAAAAAAAAAqwNUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T22:33:43.472Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "LoginForm.cs",
+              "DocumentMoniker": "D:\\Users\\zayed\\source\\repos\\DVLD-Project\\Presentaion Layer\\LoginForm.cs",
+              "RelativeDocumentMoniker": "Presentaion Layer\\LoginForm.cs",
+              "ToolTip": "D:\\Users\\zayed\\source\\repos\\DVLD-Project\\Presentaion Layer\\LoginForm.cs",
+              "RelativeToolTip": "Presentaion Layer\\LoginForm.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAQwDgAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T18:11:57.175Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "LoginForm.cs [Design]",
+              "DocumentMoniker": "D:\\Users\\zayed\\source\\repos\\DVLD-Project\\Presentaion Layer\\LoginForm.cs",
+              "RelativeDocumentMoniker": "Presentaion Layer\\LoginForm.cs",
+              "ToolTip": "D:\\Users\\zayed\\source\\repos\\DVLD-Project\\Presentaion Layer\\LoginForm.cs [Design]",
+              "RelativeToolTip": "Presentaion Layer\\LoginForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T14:16:06.527Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "MainForm.cs [Design]",
+              "DocumentMoniker": "D:\\Users\\zayed\\source\\repos\\DVLD-Project\\Presentaion Layer\\MainForm.cs",
+              "RelativeDocumentMoniker": "Presentaion Layer\\MainForm.cs",
+              "ToolTip": "D:\\Users\\zayed\\source\\repos\\DVLD-Project\\Presentaion Layer\\MainForm.cs [Design]",
+              "RelativeToolTip": "Presentaion Layer\\MainForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T02:03:32.859Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "clsDrivingLicensesApplicatoin.cs",
+              "DocumentMoniker": "D:\\Users\\zayed\\source\\repos\\DVLD-Project\\Business Layer\\clsDrivingLicensesApplicatoin.cs",
+              "RelativeDocumentMoniker": "Business Layer\\clsDrivingLicensesApplicatoin.cs",
+              "ToolTip": "D:\\Users\\zayed\\source\\repos\\DVLD-Project\\Business Layer\\clsDrivingLicensesApplicatoin.cs",
+              "RelativeToolTip": "Business Layer\\clsDrivingLicensesApplicatoin.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAIA6wEQAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T20:06:10.808Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "TestData.cs",
+              "DocumentMoniker": "D:\\Users\\zayed\\source\\repos\\DVLD-Project\\DataAccessLayer\\TestData.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\TestData.cs",
+              "ToolTip": "D:\\Users\\zayed\\source\\repos\\DVLD-Project\\DataAccessLayer\\TestData.cs",
+              "RelativeToolTip": "DataAccessLayer\\TestData.cs",
+              "ViewState": "AgIAAE0AAAAAAAAAAAAlwGIAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T20:33:32.751Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "clsTest.cs",
+              "DocumentMoniker": "D:\\Users\\zayed\\source\\repos\\DVLD-Project\\Business Layer\\clsTest.cs",
+              "RelativeDocumentMoniker": "Business Layer\\clsTest.cs",
+              "ToolTip": "D:\\Users\\zayed\\source\\repos\\DVLD-Project\\Business Layer\\clsTest.cs",
+              "RelativeToolTip": "Business Layer\\clsTest.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAlwCgAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T20:33:09.258Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "LicenseData.cs",
+              "DocumentMoniker": "D:\\Users\\zayed\\source\\repos\\DVLD-Project\\DataAccessLayer\\LicenseData.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\LicenseData.cs",
+              "ToolTip": "D:\\Users\\zayed\\source\\repos\\DVLD-Project\\DataAccessLayer\\LicenseData.cs",
+              "RelativeToolTip": "DataAccessLayer\\LicenseData.cs",
+              "ViewState": "AgIAALUAAAAAAAAAAAAlwMYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T22:56:06.381Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "clsLicense.cs",
+              "DocumentMoniker": "D:\\Users\\zayed\\source\\repos\\DVLD-Project\\Business Layer\\clsLicense.cs",
+              "RelativeDocumentMoniker": "Business Layer\\clsLicense.cs",
+              "ToolTip": "D:\\Users\\zayed\\source\\repos\\DVLD-Project\\Business Layer\\clsLicense.cs",
+              "RelativeToolTip": "Business Layer\\clsLicense.cs",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAgwEsAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T22:45:41.724Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "DrivingLicensesApplicatoinData.cs",
+              "DocumentMoniker": "D:\\Users\\zayed\\source\\repos\\DVLD-Project\\DataAccessLayer\\DrivingLicensesApplicatoinData.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\DrivingLicensesApplicatoinData.cs",
+              "ToolTip": "D:\\Users\\zayed\\source\\repos\\DVLD-Project\\DataAccessLayer\\DrivingLicensesApplicatoinData.cs",
+              "RelativeToolTip": "DataAccessLayer\\DrivingLicensesApplicatoinData.cs",
+              "ViewState": "AgIAAGUAAAAAAAAAAAAlwHIAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T19:33:58.306Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "ManageApplicationForm.cs [Design]",
+              "DocumentMoniker": "D:\\Users\\zayed\\source\\repos\\DVLD-Project\\Presentaion Layer\\ManageApplications\\ManageApplicationsLicense\\ManageApplicationForm.cs",
+              "RelativeDocumentMoniker": "Presentaion Layer\\ManageApplications\\ManageApplicationsLicense\\ManageApplicationForm.cs",
+              "ToolTip": "D:\\Users\\zayed\\source\\repos\\DVLD-Project\\Presentaion Layer\\ManageApplications\\ManageApplicationsLicense\\ManageApplicationForm.cs [Design]",
+              "RelativeToolTip": "Presentaion Layer\\ManageApplications\\ManageApplicationsLicense\\ManageApplicationForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T02:02:04.094Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "clsApplicationTypes.cs",
+              "DocumentMoniker": "D:\\Users\\zayed\\source\\repos\\DVLD-Project\\Business Layer\\clsApplicationTypes.cs",
+              "RelativeDocumentMoniker": "Business Layer\\clsApplicationTypes.cs",
+              "ToolTip": "D:\\Users\\zayed\\source\\repos\\DVLD-Project\\Business Layer\\clsApplicationTypes.cs",
+              "RelativeToolTip": "Business Layer\\clsApplicationTypes.cs",
+              "ViewState": "AgIAADkAAAAAAAAAAAD4v0sAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T00:25:23.41Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "AppTypesForm.cs",
+              "DocumentMoniker": "D:\\Users\\zayed\\source\\repos\\DVLD-Project\\Presentaion Layer\\ManageApplications\\AppTypesForm.cs",
+              "RelativeDocumentMoniker": "Presentaion Layer\\ManageApplications\\AppTypesForm.cs",
+              "ToolTip": "D:\\Users\\zayed\\source\\repos\\DVLD-Project\\Presentaion Layer\\ManageApplications\\AppTypesForm.cs",
+              "RelativeToolTip": "Presentaion Layer\\ManageApplications\\AppTypesForm.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAB0AAABQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T00:27:03.219Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "clsApplications.cs",
+              "DocumentMoniker": "D:\\Users\\zayed\\source\\repos\\DVLD-Project\\Business Layer\\clsApplications.cs",
+              "RelativeDocumentMoniker": "Business Layer\\clsApplications.cs",
+              "ToolTip": "D:\\Users\\zayed\\source\\repos\\DVLD-Project\\Business Layer\\clsApplications.cs",
+              "RelativeToolTip": "Business Layer\\clsApplications.cs",
+              "ViewState": "AgIAALoAAAAAAAAAAIAwwMoAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T20:03:52.312Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "ApplicationData.cs",
+              "DocumentMoniker": "D:\\Users\\zayed\\source\\repos\\DVLD-Project\\DataAccessLayer\\ApplicationData.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\ApplicationData.cs",
+              "ToolTip": "D:\\Users\\zayed\\source\\repos\\DVLD-Project\\DataAccessLayer\\ApplicationData.cs",
+              "RelativeToolTip": "DataAccessLayer\\ApplicationData.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAIAwwHUAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T20:07:59.648Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "DetainLicenseForm.cs [Design]",
+              "DocumentMoniker": "D:\\Users\\zayed\\source\\repos\\DVLD-Project\\Presentaion Layer\\ManageApplications\\Detain License\\DetainLicenseForm.cs",
+              "RelativeDocumentMoniker": "Presentaion Layer\\ManageApplications\\Detain License\\DetainLicenseForm.cs",
+              "ToolTip": "D:\\Users\\zayed\\source\\repos\\DVLD-Project\\Presentaion Layer\\ManageApplications\\Detain License\\DetainLicenseForm.cs [Design]",
+              "RelativeToolTip": "Presentaion Layer\\ManageApplications\\Detain License\\DetainLicenseForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T19:47:32.555Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Presentaion Layer",
+              "DocumentMoniker": "D:\\Users\\zayed\\source\\repos\\DVLD-Project\\Presentaion Layer\\Presentaion Layer.csproj",
+              "RelativeDocumentMoniker": "Presentaion Layer\\Presentaion Layer.csproj",
+              "ToolTip": "D:\\Users\\zayed\\source\\repos\\DVLD-Project\\Presentaion Layer\\Presentaion Layer.csproj",
+              "RelativeToolTip": "Presentaion Layer\\Presentaion Layer.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-03-26T21:19:27.364Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "DetainedControl.cs",
+              "DocumentMoniker": "D:\\Users\\zayed\\source\\repos\\DVLD-Project\\Presentaion Layer\\ManageApplications\\Detain License\\Controls\\DetainedControl.cs",
+              "RelativeDocumentMoniker": "Presentaion Layer\\ManageApplications\\Detain License\\Controls\\DetainedControl.cs",
+              "ToolTip": "D:\\Users\\zayed\\source\\repos\\DVLD-Project\\Presentaion Layer\\ManageApplications\\Detain License\\Controls\\DetainedControl.cs",
+              "RelativeToolTip": "Presentaion Layer\\ManageApplications\\Detain License\\Controls\\DetainedControl.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAkwDIAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T20:15:34.733Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "DetainedControl.cs [Design]",
+              "DocumentMoniker": "D:\\Users\\zayed\\source\\repos\\DVLD-Project\\Presentaion Layer\\ManageApplications\\Detain License\\Controls\\DetainedControl.cs",
+              "RelativeDocumentMoniker": "Presentaion Layer\\ManageApplications\\Detain License\\Controls\\DetainedControl.cs",
+              "ToolTip": "D:\\Users\\zayed\\source\\repos\\DVLD-Project\\Presentaion Layer\\ManageApplications\\Detain License\\Controls\\DetainedControl.cs [Design]",
+              "RelativeToolTip": "Presentaion Layer\\ManageApplications\\Detain License\\Controls\\DetainedControl.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T20:09:43.664Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "clsDetainedLicense.cs",
+              "DocumentMoniker": "D:\\Users\\zayed\\source\\repos\\DVLD-Project\\Business Layer\\clsDetainedLicense.cs",
+              "RelativeDocumentMoniker": "Business Layer\\clsDetainedLicense.cs",
+              "ToolTip": "D:\\Users\\zayed\\source\\repos\\DVLD-Project\\Business Layer\\clsDetainedLicense.cs",
+              "RelativeToolTip": "Business Layer\\clsDetainedLicense.cs",
+              "ViewState": "AgIAAI0AAAAAAAAAAAAYwMcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T21:30:48.975Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "RelaseLicenseForm.cs [Design]",
+              "DocumentMoniker": "D:\\Users\\zayed\\source\\repos\\DVLD-Project\\Presentaion Layer\\ManageApplications\\Detain License\\RelaseLicenseForm.cs",
+              "RelativeDocumentMoniker": "Presentaion Layer\\ManageApplications\\Detain License\\RelaseLicenseForm.cs",
+              "ToolTip": "D:\\Users\\zayed\\source\\repos\\DVLD-Project\\Presentaion Layer\\ManageApplications\\Detain License\\RelaseLicenseForm.cs [Design]",
+              "RelativeToolTip": "Presentaion Layer\\ManageApplications\\Detain License\\RelaseLicenseForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T20:04:03.002Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "ManageDetainedApplicationForm.cs [Design]",
+              "DocumentMoniker": "D:\\Users\\zayed\\source\\repos\\DVLD-Project\\Presentaion Layer\\ManageApplications\\Detain License\\ManageDetainedApplicationForm.cs",
+              "RelativeDocumentMoniker": "Presentaion Layer\\ManageApplications\\Detain License\\ManageDetainedApplicationForm.cs",
+              "ToolTip": "D:\\Users\\zayed\\source\\repos\\DVLD-Project\\Presentaion Layer\\ManageApplications\\Detain License\\ManageDetainedApplicationForm.cs [Design]",
+              "RelativeToolTip": "Presentaion Layer\\ManageApplications\\Detain License\\ManageDetainedApplicationForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T20:04:00.854Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "DetainLicenseForm.cs",
+              "DocumentMoniker": "D:\\Users\\zayed\\source\\repos\\DVLD-Project\\Presentaion Layer\\ManageApplications\\Detain License\\DetainLicenseForm.cs",
+              "RelativeDocumentMoniker": "Presentaion Layer\\ManageApplications\\Detain License\\DetainLicenseForm.cs",
+              "ToolTip": "D:\\Users\\zayed\\source\\repos\\DVLD-Project\\Presentaion Layer\\ManageApplications\\Detain License\\DetainLicenseForm.cs",
+              "RelativeToolTip": "Presentaion Layer\\ManageApplications\\Detain License\\DetainLicenseForm.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAAACkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T21:33:40.467Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "DriverLicenseControl.cs",
+              "DocumentMoniker": "D:\\Users\\zayed\\source\\repos\\DVLD-Project\\Presentaion Layer\\ManageApplications\\Licenses\\Local Licenses\\Control\\DriverLicenseControl.cs",
+              "RelativeDocumentMoniker": "Presentaion Layer\\ManageApplications\\Licenses\\Local Licenses\\Control\\DriverLicenseControl.cs",
+              "ToolTip": "D:\\Users\\zayed\\source\\repos\\DVLD-Project\\Presentaion Layer\\ManageApplications\\Licenses\\Local Licenses\\Control\\DriverLicenseControl.cs",
+              "RelativeToolTip": "Presentaion Layer\\ManageApplications\\Licenses\\Local Licenses\\Control\\DriverLicenseControl.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAqwBgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T21:52:18.835Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "DriverLicenseControl.cs [Design]",
+              "DocumentMoniker": "D:\\Users\\zayed\\source\\repos\\DVLD-Project\\Presentaion Layer\\ManageApplications\\Licenses\\Local Licenses\\Control\\DriverLicenseControl.cs",
+              "RelativeDocumentMoniker": "Presentaion Layer\\ManageApplications\\Licenses\\Local Licenses\\Control\\DriverLicenseControl.cs",
+              "ToolTip": "D:\\Users\\zayed\\source\\repos\\DVLD-Project\\Presentaion Layer\\ManageApplications\\Licenses\\Local Licenses\\Control\\DriverLicenseControl.cs [Design]",
+              "RelativeToolTip": "Presentaion Layer\\ManageApplications\\Licenses\\Local Licenses\\Control\\DriverLicenseControl.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T21:52:17.01Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "RelaseLicenseForm.cs",
+              "DocumentMoniker": "D:\\Users\\zayed\\source\\repos\\DVLD-Project\\Presentaion Layer\\ManageApplications\\Detain License\\RelaseLicenseForm.cs",
+              "RelativeDocumentMoniker": "Presentaion Layer\\ManageApplications\\Detain License\\RelaseLicenseForm.cs",
+              "ToolTip": "D:\\Users\\zayed\\source\\repos\\DVLD-Project\\Presentaion Layer\\ManageApplications\\Detain License\\RelaseLicenseForm.cs",
+              "RelativeToolTip": "Presentaion Layer\\ManageApplications\\Detain License\\RelaseLicenseForm.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAASwA0AAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T20:27:33.711Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "ManageDetainedApplicationForm.cs",
+              "DocumentMoniker": "D:\\Users\\zayed\\source\\repos\\DVLD-Project\\Presentaion Layer\\ManageApplications\\Detain License\\ManageDetainedApplicationForm.cs",
+              "RelativeDocumentMoniker": "Presentaion Layer\\ManageApplications\\Detain License\\ManageDetainedApplicationForm.cs",
+              "ToolTip": "D:\\Users\\zayed\\source\\repos\\DVLD-Project\\Presentaion Layer\\ManageApplications\\Detain License\\ManageDetainedApplicationForm.cs",
+              "RelativeToolTip": "Presentaion Layer\\ManageApplications\\Detain License\\ManageDetainedApplicationForm.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAASwB8AAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T22:19:21.122Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "ApplicationInfoControl.cs [Design]",
+              "DocumentMoniker": "D:\\Users\\zayed\\source\\repos\\DVLD-Project\\Presentaion Layer\\ManageApplications\\Controls\\ApplicationInfoControl.cs",
+              "RelativeDocumentMoniker": "Presentaion Layer\\ManageApplications\\Controls\\ApplicationInfoControl.cs",
+              "ToolTip": "D:\\Users\\zayed\\source\\repos\\DVLD-Project\\Presentaion Layer\\ManageApplications\\Controls\\ApplicationInfoControl.cs [Design]",
+              "RelativeToolTip": "Presentaion Layer\\ManageApplications\\Controls\\ApplicationInfoControl.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T14:06:20.299Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "ScheduleTestForm.cs [Design]",
+              "DocumentMoniker": "D:\\Users\\zayed\\source\\repos\\DVLD-Project\\Presentaion Layer\\Tests\\ScheduleTestForm.cs",
+              "RelativeDocumentMoniker": "Presentaion Layer\\Tests\\ScheduleTestForm.cs",
+              "ToolTip": "D:\\Users\\zayed\\source\\repos\\DVLD-Project\\Presentaion Layer\\Tests\\ScheduleTestForm.cs [Design]",
+              "RelativeToolTip": "Presentaion Layer\\Tests\\ScheduleTestForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T21:57:10.948Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "Form1wwwwwww.cs [Design]",
+              "DocumentMoniker": "D:\\Users\\zayed\\source\\repos\\DVLD-Project\\Presentaion Layer\\ManageApplications\\Form1wwwwwww.cs",
+              "RelativeDocumentMoniker": "Presentaion Layer\\ManageApplications\\Form1wwwwwww.cs",
+              "ToolTip": "D:\\Users\\zayed\\source\\repos\\DVLD-Project\\Presentaion Layer\\ManageApplications\\Form1wwwwwww.cs [Design]",
+              "RelativeToolTip": "Presentaion Layer\\ManageApplications\\Form1wwwwwww.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T21:06:36.839Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "AppTypesForm.cs [Design]",
+              "DocumentMoniker": "D:\\Users\\zayed\\source\\repos\\DVLD-Project\\Presentaion Layer\\ManageApplications\\AppTypesForm.cs",
+              "RelativeDocumentMoniker": "Presentaion Layer\\ManageApplications\\AppTypesForm.cs",
+              "ToolTip": "D:\\Users\\zayed\\source\\repos\\DVLD-Project\\Presentaion Layer\\ManageApplications\\AppTypesForm.cs [Design]",
+              "RelativeToolTip": "Presentaion Layer\\ManageApplications\\AppTypesForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T22:30:32.243Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "AddUersForm.Designer.cs",
+              "DocumentMoniker": "D:\\Users\\zayed\\source\\repos\\DVLD-Project\\Presentaion Layer\\Users\\AddUersForm.Designer.cs",
+              "RelativeDocumentMoniker": "Presentaion Layer\\Users\\AddUersForm.Designer.cs",
+              "ToolTip": "D:\\Users\\zayed\\source\\repos\\DVLD-Project\\Presentaion Layer\\Users\\AddUersForm.Designer.cs*",
+              "RelativeToolTip": "Presentaion Layer\\Users\\AddUersForm.Designer.cs*",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwDcAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T14:15:51.994Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "TestTypesForm.cs [Design]",
+              "DocumentMoniker": "D:\\Users\\zayed\\source\\repos\\DVLD-Project\\Presentaion Layer\\Tests\\TestTypesForm.cs",
+              "RelativeDocumentMoniker": "Presentaion Layer\\Tests\\TestTypesForm.cs",
+              "ToolTip": "D:\\Users\\zayed\\source\\repos\\DVLD-Project\\Presentaion Layer\\Tests\\TestTypesForm.cs [Design]",
+              "RelativeToolTip": "Presentaion Layer\\Tests\\TestTypesForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T22:36:49.37Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "AddUersForm.cs [Design]",
+              "DocumentMoniker": "D:\\Users\\zayed\\source\\repos\\DVLD-Project\\Presentaion Layer\\Users\\AddUersForm.cs",
+              "RelativeDocumentMoniker": "Presentaion Layer\\Users\\AddUersForm.cs",
+              "ToolTip": "D:\\Users\\zayed\\source\\repos\\DVLD-Project\\Presentaion Layer\\Users\\AddUersForm.cs [Design]",
+              "RelativeToolTip": "Presentaion Layer\\Users\\AddUersForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T14:15:58.953Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "ApplicationInfoControl.Designer.cs",
+              "DocumentMoniker": "D:\\Users\\zayed\\source\\repos\\DVLD-Project\\Presentaion Layer\\ManageApplications\\Controls\\ApplicationInfoControl.Designer.cs",
+              "RelativeDocumentMoniker": "Presentaion Layer\\ManageApplications\\Controls\\ApplicationInfoControl.Designer.cs",
+              "ToolTip": "D:\\Users\\zayed\\source\\repos\\DVLD-Project\\Presentaion Layer\\ManageApplications\\Controls\\ApplicationInfoControl.Designer.cs",
+              "RelativeToolTip": "Presentaion Layer\\ManageApplications\\Controls\\ApplicationInfoControl.Designer.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAxwAIAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T14:15:26.689Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "ApplicationInfoControl.cs",
+              "DocumentMoniker": "D:\\Users\\zayed\\source\\repos\\DVLD-Project\\Presentaion Layer\\ManageApplications\\Controls\\ApplicationInfoControl.cs",
+              "RelativeDocumentMoniker": "Presentaion Layer\\ManageApplications\\Controls\\ApplicationInfoControl.cs",
+              "ToolTip": "D:\\Users\\zayed\\source\\repos\\DVLD-Project\\Presentaion Layer\\ManageApplications\\Controls\\ApplicationInfoControl.cs",
+              "RelativeToolTip": "Presentaion Layer\\ManageApplications\\Controls\\ApplicationInfoControl.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAuwAwAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T20:58:41.275Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "TestAppoinmentForm1.Designer.cs",
+              "DocumentMoniker": "D:\\Users\\zayed\\source\\repos\\DVLD-Project\\Presentaion Layer\\Tests\\TestAppoinmentForm1.Designer.cs",
+              "RelativeDocumentMoniker": "Presentaion Layer\\Tests\\TestAppoinmentForm1.Designer.cs",
+              "ToolTip": "D:\\Users\\zayed\\source\\repos\\DVLD-Project\\Presentaion Layer\\Tests\\TestAppoinmentForm1.Designer.cs",
+              "RelativeToolTip": "Presentaion Layer\\Tests\\TestAppoinmentForm1.Designer.cs",
+              "ViewState": "AgIAALEAAAAAAAAAAAAAAL4AAABUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T13:56:45.324Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "ScheduleTestForm.Designer.cs",
+              "DocumentMoniker": "D:\\Users\\zayed\\source\\repos\\DVLD-Project\\Presentaion Layer\\Tests\\ScheduleTestForm.Designer.cs",
+              "RelativeDocumentMoniker": "Presentaion Layer\\Tests\\ScheduleTestForm.Designer.cs",
+              "ToolTip": "D:\\Users\\zayed\\source\\repos\\DVLD-Project\\Presentaion Layer\\Tests\\ScheduleTestForm.Designer.cs",
+              "RelativeToolTip": "Presentaion Layer\\Tests\\ScheduleTestForm.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T14:01:05.512Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "LicenseInfoControl.cs [Design]",
+              "DocumentMoniker": "D:\\Users\\zayed\\source\\repos\\DVLD-Project\\Presentaion Layer\\ManageApplications\\Licenses\\Controls\\LicenseInfoControl.cs",
+              "RelativeDocumentMoniker": "Presentaion Layer\\ManageApplications\\Licenses\\Controls\\LicenseInfoControl.cs",
+              "ToolTip": "D:\\Users\\zayed\\source\\repos\\DVLD-Project\\Presentaion Layer\\ManageApplications\\Licenses\\Controls\\LicenseInfoControl.cs [Design]",
+              "RelativeToolTip": "Presentaion Layer\\ManageApplications\\Licenses\\Controls\\LicenseInfoControl.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T14:05:55.302Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "ScheduleTestControl1.cs",
+              "DocumentMoniker": "D:\\Users\\zayed\\source\\repos\\DVLD-Project\\Presentaion Layer\\Tests\\Controls\\ScheduleTestControl1.cs",
+              "RelativeDocumentMoniker": "Presentaion Layer\\Tests\\Controls\\ScheduleTestControl1.cs",
+              "ToolTip": "D:\\Users\\zayed\\source\\repos\\DVLD-Project\\Presentaion Layer\\Tests\\Controls\\ScheduleTestControl1.cs",
+              "RelativeToolTip": "Presentaion Layer\\Tests\\Controls\\ScheduleTestControl1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC4AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T14:04:40.126Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "LicenseInfoControl.cs",
+              "DocumentMoniker": "D:\\Users\\zayed\\source\\repos\\DVLD-Project\\Presentaion Layer\\ManageApplications\\Licenses\\Controls\\LicenseInfoControl.cs",
+              "RelativeDocumentMoniker": "Presentaion Layer\\ManageApplications\\Licenses\\Controls\\LicenseInfoControl.cs",
+              "ToolTip": "D:\\Users\\zayed\\source\\repos\\DVLD-Project\\Presentaion Layer\\ManageApplications\\Licenses\\Controls\\LicenseInfoControl.cs",
+              "RelativeToolTip": "Presentaion Layer\\ManageApplications\\Licenses\\Controls\\LicenseInfoControl.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T13:59:54.047Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "ScheduleTestControl1.cs [Design]",
+              "DocumentMoniker": "D:\\Users\\zayed\\source\\repos\\DVLD-Project\\Presentaion Layer\\Tests\\Controls\\ScheduleTestControl1.cs",
+              "RelativeDocumentMoniker": "Presentaion Layer\\Tests\\Controls\\ScheduleTestControl1.cs",
+              "ToolTip": "D:\\Users\\zayed\\source\\repos\\DVLD-Project\\Presentaion Layer\\Tests\\Controls\\ScheduleTestControl1.cs [Design]",
+              "RelativeToolTip": "Presentaion Layer\\Tests\\Controls\\ScheduleTestControl1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T22:36:54.433Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "TestAppointmentForm.cs [Design]",
+              "DocumentMoniker": "D:\\Users\\zayed\\source\\repos\\DVLD-Project\\Presentaion Layer\\Tests\\TestAppointmentForm.cs",
+              "RelativeDocumentMoniker": "Presentaion Layer\\Tests\\TestAppointmentForm.cs",
+              "ToolTip": "D:\\Users\\zayed\\source\\repos\\DVLD-Project\\Presentaion Layer\\Tests\\TestAppointmentForm.cs [Design]",
+              "RelativeToolTip": "Presentaion Layer\\Tests\\TestAppointmentForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T22:08:28.858Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "DriverLicenseControl.Designer.cs",
+              "DocumentMoniker": "D:\\Users\\zayed\\source\\repos\\DVLD-Project\\Presentaion Layer\\ManageApplications\\Licenses\\Local Licenses\\Control\\DriverLicenseControl.Designer.cs",
+              "RelativeDocumentMoniker": "Presentaion Layer\\ManageApplications\\Licenses\\Local Licenses\\Control\\DriverLicenseControl.Designer.cs",
+              "ToolTip": "D:\\Users\\zayed\\source\\repos\\DVLD-Project\\Presentaion Layer\\ManageApplications\\Licenses\\Local Licenses\\Control\\DriverLicenseControl.Designer.cs",
+              "RelativeToolTip": "Presentaion Layer\\ManageApplications\\Licenses\\Local Licenses\\Control\\DriverLicenseControl.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T22:16:59.584Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "DetainLicenseForm.Designer.cs",
+              "DocumentMoniker": "D:\\Users\\zayed\\source\\repos\\DVLD-Project\\Presentaion Layer\\ManageApplications\\Detain License\\DetainLicenseForm.Designer.cs",
+              "RelativeDocumentMoniker": "Presentaion Layer\\ManageApplications\\Detain License\\DetainLicenseForm.Designer.cs",
+              "ToolTip": "D:\\Users\\zayed\\source\\repos\\DVLD-Project\\Presentaion Layer\\ManageApplications\\Detain License\\DetainLicenseForm.Designer.cs",
+              "RelativeToolTip": "Presentaion Layer\\ManageApplications\\Detain License\\DetainLicenseForm.Designer.cs",
+              "ViewState": "AgIAADEBAAAAAAAAAAAQwD8BAABiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T13:51:07.7Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "ReNewLocalLicenseForm.Designer.cs",
+              "DocumentMoniker": "D:\\Users\\zayed\\source\\repos\\DVLD-Project\\Presentaion Layer\\ManageApplications\\ReNewLicense\\ReNewLocalLicenseForm.Designer.cs",
+              "RelativeDocumentMoniker": "Presentaion Layer\\ManageApplications\\ReNewLicense\\ReNewLocalLicenseForm.Designer.cs",
+              "ToolTip": "D:\\Users\\zayed\\source\\repos\\DVLD-Project\\Presentaion Layer\\ManageApplications\\ReNewLicense\\ReNewLocalLicenseForm.Designer.cs",
+              "RelativeToolTip": "Presentaion Layer\\ManageApplications\\ReNewLicense\\ReNewLocalLicenseForm.Designer.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAuwA4AAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T22:20:01.972Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "LicenseInfoControl.Designer.cs",
+              "DocumentMoniker": "D:\\Users\\zayed\\source\\repos\\DVLD-Project\\Presentaion Layer\\ManageApplications\\Licenses\\Controls\\LicenseInfoControl.Designer.cs",
+              "RelativeDocumentMoniker": "Presentaion Layer\\ManageApplications\\Licenses\\Controls\\LicenseInfoControl.Designer.cs",
+              "ToolTip": "D:\\Users\\zayed\\source\\repos\\DVLD-Project\\Presentaion Layer\\ManageApplications\\Licenses\\Controls\\LicenseInfoControl.Designer.cs",
+              "RelativeToolTip": "Presentaion Layer\\ManageApplications\\Licenses\\Controls\\LicenseInfoControl.Designer.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwAIAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T13:59:48.494Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "Address 32.png - PNG [32x32, 32 bit, PNG]",
+              "DocumentMoniker": "D:\\Users\\zayed\\source\\repos\\DVLD-Project\\Presentaion Layer\\Resources\\Address 32.png",
+              "RelativeDocumentMoniker": "Presentaion Layer\\Resources\\Address 32.png",
+              "ToolTip": "D:\\Users\\zayed\\source\\repos\\DVLD-Project\\Presentaion Layer\\Resources\\Address 32.png - PNG [32x32, 32 bit, PNG]",
+              "RelativeToolTip": "Presentaion Layer\\Resources\\Address 32.png - PNG [32x32, 32 bit, PNG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2025-03-30T02:03:17.03Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "clsDriver.cs",
+              "DocumentMoniker": "D:\\Users\\zayed\\source\\repos\\DVLD-Project\\Business Layer\\clsDriver.cs",
+              "RelativeDocumentMoniker": "Business Layer\\clsDriver.cs",
+              "ToolTip": "D:\\Users\\zayed\\source\\repos\\DVLD-Project\\Business Layer\\clsDriver.cs",
+              "RelativeToolTip": "Business Layer\\clsDriver.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAqwDUAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T22:48:32.821Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "DriverData.cs",
+              "DocumentMoniker": "D:\\Users\\zayed\\source\\repos\\DVLD-Project\\DataAccessLayer\\DriverData.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\DriverData.cs",
+              "ToolTip": "D:\\Users\\zayed\\source\\repos\\DVLD-Project\\DataAccessLayer\\DriverData.cs",
+              "RelativeToolTip": "DataAccessLayer\\DriverData.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAkwHcAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T22:52:34.351Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "LicensesClass.cs",
+              "DocumentMoniker": "D:\\Users\\zayed\\source\\repos\\DVLD-Project\\Business Layer\\LicensesClass.cs",
+              "RelativeDocumentMoniker": "Business Layer\\LicensesClass.cs",
+              "ToolTip": "D:\\Users\\zayed\\source\\repos\\DVLD-Project\\Business Layer\\LicensesClass.cs",
+              "RelativeToolTip": "Business Layer\\LicensesClass.cs",
+              "ViewState": "AgIAAHsAAAAAAAAAAAAuwJQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T23:57:52.326Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "LicensesClassData.cs",
+              "DocumentMoniker": "D:\\Users\\zayed\\source\\repos\\DVLD-Project\\DataAccessLayer\\LicensesClassData.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\LicensesClassData.cs",
+              "ToolTip": "D:\\Users\\zayed\\source\\repos\\DVLD-Project\\DataAccessLayer\\LicensesClassData.cs",
+              "RelativeToolTip": "DataAccessLayer\\LicensesClassData.cs",
+              "ViewState": "AgIAAEoBAAAAAAAAAAAswGEBAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T23:47:09.864Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "InternationalLicenseData.cs",
+              "DocumentMoniker": "D:\\Users\\zayed\\source\\repos\\DVLD-Project\\DataAccessLayer\\InternationalLicenseData.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\InternationalLicenseData.cs",
+              "ToolTip": "D:\\Users\\zayed\\source\\repos\\DVLD-Project\\DataAccessLayer\\InternationalLicenseData.cs",
+              "RelativeToolTip": "DataAccessLayer\\InternationalLicenseData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T01:48:58.53Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "EditForm.cs [Design]",
+              "DocumentMoniker": "D:\\Users\\zayed\\source\\repos\\DVLD-Project\\Presentaion Layer\\ManageApplications\\EditForm.cs",
+              "RelativeDocumentMoniker": "Presentaion Layer\\ManageApplications\\EditForm.cs",
+              "ToolTip": "D:\\Users\\zayed\\source\\repos\\DVLD-Project\\Presentaion Layer\\ManageApplications\\EditForm.cs [Design]",
+              "RelativeToolTip": "Presentaion Layer\\ManageApplications\\EditForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T22:30:33.49Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 69,
+              "Title": "DriverLicenseControl.resx",
+              "DocumentMoniker": "D:\\Users\\zayed\\source\\repos\\DVLD-Project\\Presentaion Layer\\ManageApplications\\Licenses\\Local Licenses\\Control\\DriverLicenseControl.resx",
+              "RelativeDocumentMoniker": "Presentaion Layer\\ManageApplications\\Licenses\\Local Licenses\\Control\\DriverLicenseControl.resx",
+              "ToolTip": "D:\\Users\\zayed\\source\\repos\\DVLD-Project\\Presentaion Layer\\ManageApplications\\Licenses\\Local Licenses\\Control\\DriverLicenseControl.resx",
+              "RelativeToolTip": "Presentaion Layer\\ManageApplications\\Licenses\\Local Licenses\\Control\\DriverLicenseControl.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-03-29T22:19:15.531Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 70,
+              "Title": "UsersForm.cs [Design]",
+              "DocumentMoniker": "D:\\Users\\zayed\\source\\repos\\DVLD-Project\\Presentaion Layer\\Users\\UsersForm.cs",
+              "RelativeDocumentMoniker": "Presentaion Layer\\Users\\UsersForm.cs",
+              "ToolTip": "D:\\Users\\zayed\\source\\repos\\DVLD-Project\\Presentaion Layer\\Users\\UsersForm.cs [Design]",
+              "RelativeToolTip": "Presentaion Layer\\Users\\UsersForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T22:08:49.75Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 71,
+              "Title": "Edit.cs [Design]",
+              "DocumentMoniker": "D:\\Users\\zayed\\source\\repos\\DVLD-Project\\Presentaion Layer\\Tests\\Edit.cs",
+              "RelativeDocumentMoniker": "Presentaion Layer\\Tests\\Edit.cs",
+              "ToolTip": "D:\\Users\\zayed\\source\\repos\\DVLD-Project\\Presentaion Layer\\Tests\\Edit.cs [Design]",
+              "RelativeToolTip": "Presentaion Layer\\Tests\\Edit.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T22:08:48.034Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 72,
+              "Title": "AddLocallicensesForm.cs [Design]",
+              "DocumentMoniker": "D:\\Users\\zayed\\source\\repos\\DVLD-Project\\Presentaion Layer\\ManageApplications\\Licenses\\Local Licenses\\AddLocallicensesForm.cs",
+              "RelativeDocumentMoniker": "Presentaion Layer\\ManageApplications\\Licenses\\Local Licenses\\AddLocallicensesForm.cs",
+              "ToolTip": "D:\\Users\\zayed\\source\\repos\\DVLD-Project\\Presentaion Layer\\ManageApplications\\Licenses\\Local Licenses\\AddLocallicensesForm.cs [Design]",
+              "RelativeToolTip": "Presentaion Layer\\ManageApplications\\Licenses\\Local Licenses\\AddLocallicensesForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T21:37:18.525Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 73,
+              "Title": "InternatiionalLicese Form.cs [Design]",
+              "DocumentMoniker": "D:\\Users\\zayed\\source\\repos\\DVLD-Project\\Presentaion Layer\\ManageApplications\\Licenses\\InterNationalLicense\\InternatiionalLicese Form.cs",
+              "RelativeDocumentMoniker": "Presentaion Layer\\ManageApplications\\Licenses\\InterNationalLicense\\InternatiionalLicese Form.cs",
+              "ToolTip": "D:\\Users\\zayed\\source\\repos\\DVLD-Project\\Presentaion Layer\\ManageApplications\\Licenses\\InterNationalLicense\\InternatiionalLicese Form.cs [Design]",
+              "RelativeToolTip": "Presentaion Layer\\ManageApplications\\Licenses\\InterNationalLicense\\InternatiionalLicese Form.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T20:59:18.234Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 74,
+              "Title": "clsInternationalLicense.cs",
+              "DocumentMoniker": "D:\\Users\\zayed\\source\\repos\\DVLD-Project\\Business Layer\\clsInternationalLicense.cs",
+              "RelativeDocumentMoniker": "Business Layer\\clsInternationalLicense.cs",
+              "ToolTip": "D:\\Users\\zayed\\source\\repos\\DVLD-Project\\Business Layer\\clsInternationalLicense.cs",
+              "RelativeToolTip": "Business Layer\\clsInternationalLicense.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAAAgwEUAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T01:49:26.402Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 75,
+              "Title": "ManageTestsData.cs",
+              "DocumentMoniker": "D:\\Users\\zayed\\source\\repos\\DVLD-Project\\DataAccessLayer\\ManageTestsData.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\ManageTestsData.cs",
+              "ToolTip": "D:\\Users\\zayed\\source\\repos\\DVLD-Project\\DataAccessLayer\\ManageTestsData.cs",
+              "RelativeToolTip": "DataAccessLayer\\ManageTestsData.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T19:33:49.481Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 76,
+              "Title": "TestAppoinmentData.cs",
+              "DocumentMoniker": "D:\\Users\\zayed\\source\\repos\\DVLD-Project\\DataAccessLayer\\TestAppoinmentData.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\TestAppoinmentData.cs",
+              "ToolTip": "D:\\Users\\zayed\\source\\repos\\DVLD-Project\\DataAccessLayer\\TestAppoinmentData.cs",
+              "RelativeToolTip": "DataAccessLayer\\TestAppoinmentData.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAABsAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T20:40:04.569Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 77,
+              "Title": "DataAccessLayer",
+              "DocumentMoniker": "D:\\Users\\zayed\\source\\repos\\DVLD-Project\\DataAccessLayer\\DataAccessLayer.csproj",
+              "RelativeDocumentMoniker": "DataAccessLayer\\DataAccessLayer.csproj",
+              "ToolTip": "D:\\Users\\zayed\\source\\repos\\DVLD-Project\\DataAccessLayer\\DataAccessLayer.csproj",
+              "RelativeToolTip": "DataAccessLayer\\DataAccessLayer.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-03-23T10:12:33.796Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 78,
+              "Title": "Business Layer",
+              "DocumentMoniker": "D:\\Users\\zayed\\source\\repos\\DVLD-Project\\Business Layer\\Business Layer.csproj",
+              "RelativeDocumentMoniker": "Business Layer\\Business Layer.csproj",
+              "ToolTip": "D:\\Users\\zayed\\source\\repos\\DVLD-Project\\Business Layer\\Business Layer.csproj",
+              "RelativeToolTip": "Business Layer\\Business Layer.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-03-23T10:12:23.266Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
